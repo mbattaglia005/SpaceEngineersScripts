@@ -1,1 +1,2 @@
-# SpaceEngineersSnippets
+# SpaceEngineersScripts
+That good stuff.
