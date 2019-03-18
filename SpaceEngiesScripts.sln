@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaunchPadLock", "LaunchPadL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStateMachine", "TestStateMachine\TestStateMachine.csproj", "{3AF5AC63-39AE-4335-AE40-3D90E656822F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityClasses", "UtilitiyClasses\UtilityClasses.csproj", "{3AB349BD-9FB3-434F-8709-D732A05E770C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityClasses", "UtilityClasses\UtilityClasses.csproj", "{3AB349BD-9FB3-434F-8709-D732A05E770C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
