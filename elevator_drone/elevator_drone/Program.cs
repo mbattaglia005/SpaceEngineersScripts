@@ -86,6 +86,7 @@ namespace IngameScript
                 savedArg = pb.CustomData;
                 pb.CustomData = "";
                 Echo("savedArg: " + savedArg.ToString());
+                messageRecieved = false;
             }
 
 
@@ -125,7 +126,6 @@ namespace IngameScript
                     rc.ApplyAction("AutoPilot_Off");
                     Runtime.UpdateFrequency = UpdateFrequency.Update100;
                     textPanel.WritePublicText("Now arriving at destination.");
-                    messageRecieved = false;
                 }
             }
             if (savedArg == "space")
@@ -157,7 +157,6 @@ namespace IngameScript
                     rc.ApplyAction("AutoPilot_Off");
                     Runtime.UpdateFrequency = UpdateFrequency.Update100;
                     textPanel.WritePublicText("Now arriving at destination.");
-                    messageRecieved = false;
                 }
             }
         }
