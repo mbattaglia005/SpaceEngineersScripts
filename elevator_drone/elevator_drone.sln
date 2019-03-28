@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elevator_drone", "elevator_drone\elevator_drone.csproj", "{98BAC22C-FA4E-4C36-9EEC-6A13D6F7B12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BAC22C-FA4E-4C36-9EEC-6A13D6F7B12A}.Debug|x64.ActiveCfg = Debug|x64
+		{98BAC22C-FA4E-4C36-9EEC-6A13D6F7B12A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0251C8D3-6712-4D30-B445-B26B4C320459}
+	EndGlobalSection
+EndGlobal
