@@ -105,8 +105,8 @@
     <AdditionalFiles Include="MDK\whitelist.cache" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ExpectedBlocks\README.txt" />
-    <Content Include="README.txt" />
+    <None Include="ExpectedBlocks\README.md" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="AfterBuild">
